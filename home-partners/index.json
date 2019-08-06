@@ -103,6 +103,15 @@
       "gaTag":"PeckShield",
       "link":"https://peckshield.com",
       "logo":"peckshield.png"
+    },
+    {
+      "gaTag":"mytoken.best",
+      "link":"https://mytoken.best/?=supereospark",
+      "logo":"mytoken_best_en_372x120.png",
+      "zh-Hans-CN":{
+        "link":"https://mytoken.best/zh/?=supereospark",
+        "logo":"mytoken_best_zh_372x120.png"
+      }
     }
   ]
 ]

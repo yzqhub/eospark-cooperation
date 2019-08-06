@@ -534,6 +534,23 @@
         "logo":"takafuly.png",
         "title":"Takafuly",
         "description":"One Marketplace Where Everybody Connects"
+      },
+      {
+        "gaTag":"mytoken.best",
+        "link":"https://mytoken.best/?ref=supereospark",
+        "logo":"mytoken_best_148x148.png",
+        "title":"Meiya Token",
+        "description":"EOS account registration service platform",
+        "zh-Hans-CN":{
+          "title":"美呀Token",
+          "link":"https://mytoken.best/zh/?ref=supereospark",
+          "description":"EOS靓号、免费号注册"
+        },
+        "zh-Hant-HK":{
+          "title":"美呀Token",
+          "link":"https://mytoken.best/zh/?ref=supereospark",
+          "description":"注冊靚號賬戶、免費賬戶"
+        }
       }
     ]
   },

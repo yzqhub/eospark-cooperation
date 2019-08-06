@@ -166,6 +166,7 @@ It can be previewed here after compilation, and only a brief introduction to Eng
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/we_dice_logo.png" /> | WeDice | Automatic earning dice for dice owner. | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/we_dice.png" /> | https://wedice.one/?ref=supereospark | game | we_dice | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/iboxgames_logo.png" /> | iBoxGame | A baccarat HiLo gambling game dapp rewarding high IQ players. | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/iboxgames.png" /> | https://ibox.games/?ref=supereospark | game | iboxgames | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/sportbet_logo.png" /> | SportBet | First decentralized sportsbook on EOS blockchain | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/sportbet.png" /> | https://sportbet.one?r=supereospark | game | sportbet | 
+| <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/mytoken_best_logo_48x48.png" /> | Meiya Token | Register .win .ca .en .pro .biz .best ...  and free accounts. | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/mytoken_best_548x365.png" /> | https://mytoken.best/?ref=supereospark | entertainment | mytoken.best | 
 
 <!-- dapp_list_end -->
 
@@ -227,6 +228,7 @@ It can be previewed here after compilation, and only a brief introduction to Eng
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/go_dapp.png" /> | GoDapp | GoDapp.where the best dapps go! | https://godapp.com | informationPlatforms | go_dapp | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/pro_chain.png" /> | PRA Candy Box | The first EOS-based candy box DApp developed by ProChain | https://chain.pro/web-prabox/ | dapp | pro_chain | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/takafuly.png" /> | Takafuly | One Marketplace Where Everybody Connects | https://www.takafuly.net/ | dapp | takafuly | 
+| <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/mytoken_best_148x148.png" /> | Meiya Token | EOS account registration service platform | https://mytoken.best/?ref=supereospark | dapp | mytoken.best | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/btmore.png" /> | btmore | online games platform based on crypto assets | https://www.btmore.com/?channel=eospark | game | btmore | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/eos_joy.png" /> | EOSJoy | The World's First Blockchain Platform for Leisure and Competitive Games | https://www.eosjoy.io/?user=supereospark&utm_source=eospark | game | eosjoy | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/partners/img/farm_eos.png" /> | FarmEOS | The world's first DApp gaming eco-platform | https://farmeos.io/a/supereospark | game | farm_eos | 
@@ -272,5 +274,6 @@ It can be previewed here after compilation, and only a brief introduction to Eng
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/home-partners/img/switcheo_network.png" /> | https://switcheo.exchange | switcheo_network | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/home-partners/img/firewall.png" /> | https://firewallx.io | FireWall.X | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/home-partners/img/peckshield.png" /> | https://peckshield.com | PeckShield | 
+| <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/home-partners/img/mytoken_best_en_372x120.png" /> | https://mytoken.best/?=supereospark | mytoken.best | 
 
 <!-- home_partner_list_end -->

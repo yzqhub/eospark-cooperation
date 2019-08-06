@@ -452,5 +452,24 @@
     "ru":{
       "description":"Децентрализированая букмекерская контора на EOS"
     }
+  },
+  {
+    "gaTag":"mytoken.best",
+    "categoriy":"entertainment",
+    "link":"https://mytoken.best/?ref=supereospark",
+    "logo":"mytoken_best_logo_48x48.png",
+    "preview":"mytoken_best_548x365.png",
+    "title":"Meiya Token",
+    "description":"Register .win .ca .en .pro .biz .best ...  and free accounts.",
+    "zh-Hans-CN":{
+      "title":"美呀Token",
+      "link":"https://mytoken.best/zh/?ref=supereospark",
+      "description":"注册 .win .pro .biz .en .ca .best ... 靓号，批量注册免费账号。"
+    },
+    "zh-Hant-HK":{
+      "title":"EOS靚號",
+      "link":"https://mytoken.best/zh/?ref=supereospark",
+      "description":"注冊 .win .pro .biz .en .ca .best ... 靚號，批量注冊免費賬戶。"
+    }
   }
 ]
